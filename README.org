@@ -1,0 +1,19 @@
+#+TITLE:           org-scripts
+#+AUTHOR:          Thomas Rodgers
+#+EMAIL:           rodgert@twrodgers.com
+#+DATE:            2019-02-07
+#+DESCRIPTION:     Scripts for maintaining my personal org setup
+#+LANGUAGE:        en
+#+STARTUP:         showall
+
+ | Status:   | Under Development                 |
+ | Location: | [[http://github.com/rodgert/org-scripts]] |
+ | Version:  | 0.1.0
+
+* Description
+
+  Scripts I've developed to help with maintaining My Life In Plain Text(tm)
+
+* History
+** 2019-02-07: Version 0.1.0
+   - Initial Commit

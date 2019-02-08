@@ -1,0 +1,6 @@
+#+TAGS: WORK (or whatever)
+#+TYP_TODO: TODO MAYBE INPROGRESS WAITING NEXT DONE
+#+STARTUP: showall
+#+STARTUP: hidestars
+
+* TODO Project Journal
