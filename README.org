@@ -8,12 +8,27 @@
 
  | Status:   | Under Development                 |
  | Location: | [[http://github.com/rodgert/org-scripts]] |
- | Version:  | 0.1.0
+ | Version:  | 0.1.1
 
 * Description
 
   Scripts I've developed to help with maintaining My Life In Plain Text(tm)
 
+* License
+  This project is free and open-source software and is distributed under the
+  terms of the GNU General Public License v3 or any later version. It is subject
+  to the license terms in the LICENSE file found in the top-level directory of
+  this distribution and at
+  https://github.com/cagov/sample-repo-java/blob/master/LICENSE. By submitting a
+  contribution to this project you agree and acknowledge that your contribution
+  may be used under the terms of the GNU General Public License v3 or any later
+  version and you are authorized to submit the contribution on behalf of the
+  copyright holder. No part of this project, including this file, may be copied,
+  modified, propagated, or distributed except according to the terms contained
+  in the LICENSE file.
+
 * History
 ** 2019-02-07: Version 0.1.0
    - Initial Commit
+** 2019-02-07: Version 0.1.1
+   - Include license
