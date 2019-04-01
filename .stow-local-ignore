@@ -1,5 +1,13 @@
-# Don't publish GPL stuff
+# Don't publish license and readme stuff
 
-COPYING
-README.org
+^/COPYING
+^/README.*
+^/LICENSE.*
 
+# also .git stuff
+\.git
+\.gitignore
+
+# also emacs stuff
+.+~    	     # emacs backup files
+\#.*\#	     # emacs autosave files
